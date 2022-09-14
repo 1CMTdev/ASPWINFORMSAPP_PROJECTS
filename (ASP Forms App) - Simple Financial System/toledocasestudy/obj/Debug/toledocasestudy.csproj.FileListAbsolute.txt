@@ -1,0 +1,39 @@
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\bin\Debug\toledocasestudy.exe.config
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\bin\Debug\toledocasestudy.exe
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\bin\Debug\toledocasestudy.pdb
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csprojAssemblyReference.cache
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.A_LoginHome.resources
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.Properties.Resources.resources
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.GenerateResource.cache
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.CoreCompileInputs.cache
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.exe
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.pdb
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.B_Create.resources
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.C_Trans.resources
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\bin\Debug\master.mdf
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\bin\Debug\master_log.ldf
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.D_Transfer.resources
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.E_Viewtrans.resources
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\bin\Debug\ClassLibrary1.dll
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\bin\Debug\ClassLibrary1.pdb
+C:\Users\NAMELESS\source\repos\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.CopyComplete
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\bin\Debug\master.mdf
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\bin\Debug\master_log.ldf
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\bin\Debug\toledocasestudy.exe.config
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\bin\Debug\toledocasestudy.exe
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\bin\Debug\toledocasestudy.pdb
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\bin\Debug\ClassLibrary1.dll
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\bin\Debug\ClassLibrary1.pdb
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.AssemblyReference.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.SuggestedBindingRedirects.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.A_LoginHome.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.B_Create.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.C_Trans.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.D_Transfer.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.E_Viewtrans.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.Properties.Resources.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.GenerateResource.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.CoreCompileInputs.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.csproj.CopyComplete
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.exe
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\toledocasestudy\toledocasestudy\obj\Debug\toledocasestudy.pdb
