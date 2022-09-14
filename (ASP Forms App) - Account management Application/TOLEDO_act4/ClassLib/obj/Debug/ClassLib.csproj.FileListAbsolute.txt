@@ -1,0 +1,6 @@
+C:\Users\NAMELESS\source\repos\TOLEDO_act4\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\NAMELESS\source\repos\TOLEDO_act4\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\NAMELESS\source\repos\TOLEDO_act4\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache
+C:\Users\NAMELESS\source\repos\TOLEDO_act4\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\NAMELESS\source\repos\TOLEDO_act4\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\NAMELESS\source\repos\TOLEDO_act4\ClassLib\obj\Debug\ClassLib.pdb
