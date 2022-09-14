@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\ClassLibrary1\\ClassLibrary1.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\ClassLibrary1\\ClassLibrary1.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO.csproj",
+        "projectName": "EMPLOYEE_SALLARY_TOLEDO",
+        "projectPath": "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO.csproj",
+        "packagesPath": "C:\\Users\\NAMELESS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\EMPLOYEE_SALLARY_TOLEDO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NAMELESS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\ClassLibrary1\\ClassLibrary1.csproj": {
+                "projectPath": "C:\\Users\\NAMELESS\\source\\repos\\EMPLOYEE_SALLARY_TOLEDO\\ClassLibrary1\\ClassLibrary1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
