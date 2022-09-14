@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="templated-embellished/default.css" rel="stylesheet" />
+    <link href="templated-embellished/fonts.css" rel="stylesheet" />
+
+    <script type="text/javascript" language="javascript">
+        function DisableBackButton() {
+            window.history.forward()
+
+        }
+        DisableBackButton();
+        window.onload = DisableBackButton;
+        window.onpageshow = function (evt) { if (evt.persisted) DisableBackButton() }
+        window.onunload = function () { void (0) }
+    </script>
+
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div>
+
+
+        <body>
+            <div id="wrapper1">
+                <div id="header-wrapper">
+                    <div id="header" class="container">
+                        <div id="logo">
+                            <span class="icon icon-cogs"></span>
+                            <h1><a href="#">SALARY LOAN</a></h1>
+                            WEB APPLICATION
+                        </div>
+                        <div id="menu">
+                            <ul>
+                                <li class="current_page_item"><a href="REG.aspx">REGISTRATION</a></li>
+                                <li class="current_page_item"><a href="LOG.aspx">LOGIN</a></li>
+                                <li class="current_page_item"><a href="VIE.aspx" accesskey="4" title="">VIEW RECORDS</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div>
+
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+
+                </div>
+
+                <div id="wrapper2">
+                    <div id="welcome" class="container">
+                        <div class="title">
+                            <h2>Welcome to our website</h2>
+                            <h3>ABC Company Loan Calculator</h3>
+                        </div>
+                    </div>
+                </div>
+        </body>
+
+
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,12 @@
+C:\Users\NAMELESS\Desktop\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\bin\Debug\ABCclass.dll
+C:\Users\NAMELESS\Desktop\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\bin\Debug\ABCclass.pdb
+C:\Users\NAMELESS\Desktop\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.csproj.CoreCompileInputs.cache
+C:\Users\NAMELESS\Desktop\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.dll
+C:\Users\NAMELESS\Desktop\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.pdb
+C:\Users\NAMELESS\Desktop\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.csprojAssemblyReference.cache
+C:\Users\VVS\Documents\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\bin\Debug\ABCclass.dll
+C:\Users\VVS\Documents\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\bin\Debug\ABCclass.pdb
+C:\Users\VVS\Documents\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.csproj.AssemblyReference.cache
+C:\Users\VVS\Documents\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.csproj.CoreCompileInputs.cache
+C:\Users\VVS\Documents\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.dll
+C:\Users\VVS\Documents\C\VS2019\TOLEDO_SlaryLoanWeb\ABCclass\obj\Debug\ABCclass.pdb
