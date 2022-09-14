@@ -1,0 +1,12 @@
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

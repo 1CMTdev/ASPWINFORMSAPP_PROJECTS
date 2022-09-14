@@ -1,0 +1,39 @@
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.exe
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.deps.json
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.runtimeconfig.json
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.runtimeconfig.dev.json
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.dll
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.pdb
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csprojAssemblyReference.cache
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.Form1.resources
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.Properties.Resources.resources
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csproj.GenerateResource.cache
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.AssemblyInfoInputs.cache
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.AssemblyInfo.cs
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csproj.CoreCompileInputs.cache
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.dll
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.pdb
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.genruntimeconfig.cache
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\NAMELESS\source\repos\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csproj.CopyComplete
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.exe
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.deps.json
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.runtimeconfig.json
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.runtimeconfig.dev.json
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.dll
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.pdb
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csproj.AssemblyReference.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.Form1.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.Properties.Resources.resources
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csproj.GenerateResource.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.AssemblyInfoInputs.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.AssemblyInfo.cs
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csproj.CoreCompileInputs.cache
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.csproj.CopyComplete
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.dll
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.pdb
+C:\Users\VVS\Desktop\OPERATION-PORTFO\codes ui\W\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\act3_Toledo_PURCHASE\obj\Debug\netcoreapp3.1\act3_Toledo_PURCHASE.genruntimeconfig.cache

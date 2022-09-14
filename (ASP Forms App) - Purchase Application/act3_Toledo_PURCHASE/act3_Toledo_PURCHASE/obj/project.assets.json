@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassLibrary1/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ClassLibrary1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\VVS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\VVS\\Desktop\\OPERATION-PORTFO\\codes ui\\W\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE.csproj",
+      "projectName": "act3_Toledo_PURCHASE",
+      "projectPath": "C:\\Users\\VVS\\Desktop\\OPERATION-PORTFO\\codes ui\\W\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE.csproj",
+      "packagesPath": "C:\\Users\\VVS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VVS\\Desktop\\OPERATION-PORTFO\\codes ui\\W\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\VVS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\VVS\\Desktop\\OPERATION-PORTFO\\codes ui\\W\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\VVS\\Desktop\\OPERATION-PORTFO\\codes ui\\W\\act3_Toledo_PURCHASE\\act3_Toledo_PURCHASE\\ClassLibrary1\\ClassLibrary1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.22, 3.1.22]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
